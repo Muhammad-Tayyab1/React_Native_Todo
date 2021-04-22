@@ -1,2 +1,2 @@
-# React_Native_Todo
+# React_Native_Todo app using expo and NativeBase components
  
